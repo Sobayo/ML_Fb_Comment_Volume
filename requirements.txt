@@ -12,4 +12,6 @@ tensorflow
 keras
 statsmodels
 jupyter
--e.
+sweetviz
+autoviz
+# -e.
